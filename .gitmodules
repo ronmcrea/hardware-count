@@ -1,0 +1,3 @@
+[submodule "inventory-frontend"]
+	path = inventory-frontend
+	url = https://github.com/ronmcrea/inventory-frontend.git
